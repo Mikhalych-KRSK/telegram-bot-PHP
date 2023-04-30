@@ -1,0 +1,61 @@
+$data: Array
+(
+    [update_id] => 228246950
+    [message] => Array
+        (
+            [message_id] => 851
+            [from] => Array
+                (
+                    [id] => 481077652
+                    [is_bot] => 
+                    [first_name] => Илья
+                    [last_name] => Морозов
+                    [username] => ilic4444
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 481077652
+                    [first_name] => Илья
+                    [last_name] => Морозов
+                    [username] => ilic4444
+                    [type] => private
+                )
+
+            [date] => 1682492267
+            [text] => Летние смены 2023
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 228246951
+    [message] => Array
+        (
+            [message_id] => 853
+            [from] => Array
+                (
+                    [id] => 481077652
+                    [is_bot] => 
+                    [first_name] => Илья
+                    [last_name] => Морозов
+                    [username] => ilic4444
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 481077652
+                    [first_name] => Илья
+                    [last_name] => Морозов
+                    [username] => ilic4444
+                    [type] => private
+                )
+
+            [date] => 1682492277
+            [text] => Фотографии
+        )
+
+)
